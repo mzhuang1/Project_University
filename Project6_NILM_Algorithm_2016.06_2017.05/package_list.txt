@@ -1,0 +1,11 @@
+pandas
+scipy
+numpy
+statsmodels
+sklearn
+cvxopt
+pymongo
+keras
+hdbscan
+socket
+itertools
